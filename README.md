@@ -45,3 +45,8 @@ This small executable will be subject to some changes over time. In fact, I inte
 Leaving it as it is would not be fair and professional. Because if something can be improved it must be done.
 And here too the concept of developing an application returns. 
 Because a thing is never finished once it is released, but on the contrary it can be improved and grown by fixing what is not working.
+
+
+## Some pictures
+
+

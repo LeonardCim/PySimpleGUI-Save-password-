@@ -49,7 +49,4 @@ Because a thing is never finished once it is released, but on the contrary it ca
 
 ## Some pictures
 
-This is the first thing you will see the program started:
-
-![](Screenshot (10).png)
 

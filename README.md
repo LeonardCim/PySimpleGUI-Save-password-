@@ -51,5 +51,5 @@ Because a thing is never finished once it is released, but on the contrary it ca
 
 This is the first thing you will see the program started:
 
-![](ImagesApp/Screenshot(10).png)
+![](Screenshot (10).png)
 

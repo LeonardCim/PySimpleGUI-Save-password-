@@ -9,6 +9,8 @@ import os
 
 
 
+#This script will only run once when the program starts
+
 sg.theme('DarkAmber')
 
 count = 0

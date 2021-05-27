@@ -51,24 +51,24 @@ Because a thing is never finished once it is released, but on the contrary it ca
 
 This is the screen you will see when starting the program:
 
-<img src="ImagesApp/ScreenshotName.png" width=800>
+<img src="ImagesApp/ScreenshotName.png" width=900>
 
 
 Then there will be: The main window;
 
-<img src="ImagesApp/ScreenshotEnter.png" width=800>
+<img src="ImagesApp/ScreenshotEnter.png" width=900>
 
 The window where to enter the passwords;
 
-<img src="ImagesApp/ScreenshotPass.png" width=800>
+<img src="ImagesApp/ScreenshotPass.png" width=900>
 
 The window where to see the passwords;
 
-<img src="ImagesApp/ScreenshotReveal.png" width=800>
+<img src="ImagesApp/ScreenshotReveal.png" width=900>
 
 The folder that will contain the files.
 
-<img src="ImagesApp/ScreenshotFile.png" width=800>
+<img src="ImagesApp/ScreenshotFile.png" width=900>
 
 In addition there are the other functions that you can observe in the main window.
 For now I just leave these photos alone.

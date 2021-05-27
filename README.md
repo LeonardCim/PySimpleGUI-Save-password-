@@ -35,6 +35,7 @@ In addition to PySimpleGui, I used the following libraries in the project:
 - ConfigParser
 - Pandas
 - CSV
+- Sys
 - Os
 
 ## Download the executable

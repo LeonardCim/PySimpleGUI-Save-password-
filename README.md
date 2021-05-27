@@ -37,6 +37,9 @@ In addition to PySimpleGui, I used the following libraries in the project:
 - CSV
 - Os
 
+## Download the executable
+
+The super password saver is here --> [here](https://github.com/LeonardCim/PySimpleGUI-Save-password-/releases/tag/v0.1)
 
 ## Note
 
